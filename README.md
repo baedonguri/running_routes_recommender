@@ -1,5 +1,3 @@
-# running_routes_recommender_project
-
 
 # 데이터 청년 캠퍼스 프로젝트 - 널뛰기
 + 개인별 달리기 경로 및 크루 추천 서비스
